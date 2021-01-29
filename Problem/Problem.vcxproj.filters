@@ -57,6 +57,12 @@
     <ClCompile Include="15649.cpp">
       <Filter>소스 파일\Problem</Filter>
     </ClCompile>
+    <ClCompile Include="1316.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="15651.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problem.h">
