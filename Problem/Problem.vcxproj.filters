@@ -63,6 +63,27 @@
     <ClCompile Include="15651.cpp">
       <Filter>소스 파일\Problem</Filter>
     </ClCompile>
+    <ClCompile Include="14888.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="9663.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11399.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="1931.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11047.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="1541.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="13305.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problem.h">
