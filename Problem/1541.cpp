@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+// ÀÒ¾î¹ö¸° °ıÈ£
 void p1541() {
 	string input;
 	cin >> input;

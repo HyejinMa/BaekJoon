@@ -20,3 +20,6 @@ void p1931();
 void p11047();
 void p1541();
 void p13305();
+void p1316();
+void p2108();
+void p15650();

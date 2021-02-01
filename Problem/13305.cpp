@@ -3,6 +3,7 @@
 #include <algorithm>
 using namespace std;
 
+// 도로 최소비용
 void p13305() {
 	int N, temp;
 	cin >> N;
